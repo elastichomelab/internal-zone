@@ -28,3 +28,9 @@ helm repo add nfs-subdir-external-provisioner https://kubernetes-sigs.github.io/
 ``` bash
 helm show values jenkins/jenkins > jenkins_values.yaml 
 ```
+
+# awx install
+
+``` bash
+https://www.dbi-services.com/blog/deploy-awx-operator-with-helm-using-images-from-a-local-registry/
+```
